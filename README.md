@@ -1,2 +1,1 @@
-# EnigmaEmulator
- base emulator for Enigma M3
+base emulator package for Enigma M3
